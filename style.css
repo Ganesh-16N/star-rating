@@ -1,0 +1,17 @@
+ body{
+    background-color: black;
+    color: white;
+ }
+ .emoji{
+    text-align: center;
+    color: red;
+    height: 3rem;
+}
+.star{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.headName{
+    text-align: center;
+}
